@@ -1,0 +1,20 @@
+{
+    "education":[
+        {
+            "title": "Jun 20XX - Jun 20YY",
+            "cardTitle": "M.C.A, Computer Application",
+            "cardSubtitle":"Anna University",
+            "cardDetailedText": "CGPA - 8.9",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Apr 20XX - Jun 20XX",
+            "cardTitle": "B.Sc Computer Science",
+            "cardSubtitle":"Madurai Kamaraj University",
+            "cardDetailedText": "CGPA - 8.9"
+            
+        }
+    ]
+}

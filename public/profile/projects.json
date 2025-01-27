@@ -1,0 +1,138 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Dev Portfolio-Password Reset",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Bnks10061998/Task29.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://kaviyab-task29.netlify.app"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript",
+                "SQL"
+            ]
+        },
+        {
+            "image" : "images/projects/caaring-poster.png",
+            "title": "",
+            "bodyText": "**.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Bnks10061998/Task19.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://kaviyab-task19.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "Html",
+                "SQL",
+                "React",
+                "Css"
+                              
+            ]
+        },
+        {
+            "image" : "images/projects/quiet-hours-poster.jpg",
+            "title": "React Website Page using React Router",
+            "bodyText": "",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Bnks10061998/Task17.git"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "Html",
+                "SQL",
+                "React",
+                "Css"
+               
+            ]
+        },
+        {
+            "title": "React TodoList Page",
+            "bodyText": "",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Bnks10061998/Task16.git"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "Html",
+                
+                "React",
+                "Css"
+                
+            ]
+        },
+        {
+            "title": "React Shopping Card Task",
+            "bodyText": "",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Bnks10061998/Task14.git"
+                }
+            ],
+            "tags" : [
+                "Html",
+                "Css",
+                "BootStrap",
+                "React",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "Search Food Receipe",
+            "bodyText": ".",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Bnks10061998/Task12-03.git"
+                }
+            ],
+            "tags" : [
+                "Html",
+                "Css",
+                "BootStrap",
+                "React",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "ISRO Promise",
+            "bodyText": "https://github.com/Bnks10061998/Task12-01.git",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
+                }
+            ],
+            "tags" : [
+                "Html",
+                "Css",
+                "BootStrap",
+                "React",
+                "JavaScript"
+            ]
+        }
+        
+        
+    ]
+}
